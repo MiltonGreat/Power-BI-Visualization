@@ -10,37 +10,37 @@ The dashboard is designed to empower stakeholders with a comprehensive understan
 
 The project followed a systematic approach, with the following steps:
 
-1. Data Preparation with Power Query (03:34)
+1. Data Preparation with Power Query
 - Cleaned and transformed the dataset using Power Query.
 - Removed inconsistencies, handled missing values, and optimized data for analysis.
 
-2. Virtual Tables (06:08)
+2. Virtual Tables
 - Created virtual tables to streamline data relationships and improve analysis.
 - Utilized calculated tables for custom aggregations and insights.
 
-3. Data Model & Core Visuals (11:30)
+3. Data Model & Core Visuals
 - Designed a robust data model with relationships between tables.
 - Built measures and calculated fields to derive key metrics.
 - Added core visuals, including bar charts, line charts, and KPIs.
 
-4. Formatting and Conditional Formatting (32:31)
+4. Formatting and Conditional Formatting
 - Enhanced visual aesthetics with formatting techniques.
 - Applied conditional formatting to highlight important trends and outliers.
 
-5. Advanced Visuals (42:12)
+5. Advanced Visuals
 - Treemap: For hierarchical data analysis.
 - Waterfall Chart: To visualize contributions to changes in metrics.
 - Combo Chart: For dual-axis trend analysis.
 - Scatter Chart with Zoom Slider: To explore detailed patterns in data.
 
-6. Dynamic Titles and Formatting (52:57)
+6. Dynamic Titles and Formatting
 - Incorporated dynamic chart and axis titles based on user-selected filters.
 - Applied consistent formatting for a professional appearance.
 
-7. Dynamic Report Title (1:02:27)
+7. Dynamic Report Title
 - Added a dynamic report title that adjusts based on user interactions and slicers.
 
-8. Final Tweaks, Review, and Publish (1:07:50)
+8. Final Tweaks, Review, and Publish
 - Reviewed the dashboard for consistency and usability.
 - Published the dashboard for stakeholder access and feedback.
 
