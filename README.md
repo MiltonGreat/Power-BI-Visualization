@@ -6,6 +6,10 @@ This project involves the creation of an interactive and visually compelling Pow
 
 The dashboard is designed to empower stakeholders with a comprehensive understanding of business metrics and enable data-driven decision-making.
 
+### Preview of the Dashboard
+
+![Power BI Dashboard](https://github.com/user-attachments/assets/936a6bfb-2506-48a3-9e77-73fbfecf0ba3)
+
 ## Project Workflow
 
 The project followed a systematic approach, with the following steps:
@@ -50,10 +54,6 @@ The project followed a systematic approach, with the following steps:
 - Advanced Charts: Treemap, waterfall chart, combo chart, and scatter chart with zoom functionality.
 - Interactive Titles: Dynamic chart titles that adapt to user-selected filters for a customized view.
 - Optimized Data Model: Virtual tables and relationships for seamless analysis and efficient calculations.
-
-### Preview of the Dashboard
-
-![Power BI Dashboard](https://github.com/user-attachments/assets/936a6bfb-2506-48a3-9e77-73fbfecf0ba3)
 
 ### Source
 
